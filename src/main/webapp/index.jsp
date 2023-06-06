@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Welcome to Swiggy!</h2>
+<h2>Welcome to Talabat!</h2>
 </body>
 </html>
